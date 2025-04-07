@@ -1,4 +1,4 @@
-# Express EJS Basic – Day 2
+# Express EJS Basics – Day 2
 
 This project is part of my daily full-stack web development learning journey.  
 It includes basic concepts of **Express.js** and **EJS templating**.
